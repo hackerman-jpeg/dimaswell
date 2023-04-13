@@ -1,6 +1,6 @@
 # Hi, I'm hackerman.jpeg! 👋
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimaswell&theme=radical)](https://github.com/dimaswell/github-readme-stats)
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackerman-jpeg&theme=radical)](https://github.com/hackerman-jpeg/github-readme-stats)
 
 ## 🌱 About Me
 
