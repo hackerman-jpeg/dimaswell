@@ -22,5 +22,5 @@ I'm a jpeg based hacker located in cyberspace. I have a passion for hacking and 
 
 ## 📫 Get in Touch
 
-- Don't
+- Don't.
 
